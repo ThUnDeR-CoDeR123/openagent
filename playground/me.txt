@@ -1,5 +1,0 @@
-{{#user}}
-My name is Dipnarayan Sen.
-Here are my skills : html, css ,js . 
-My email id is dipnarayansen123@gmail.com
-{{/user}}
